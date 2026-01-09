@@ -127,7 +127,7 @@ Without intervention, the data suggests:
 ---
 
 ## 📁 Repository Structure
-```
+
 ├── Washington Data Analysis.ipynb     # Forecasting & affordability modeling
 ├── Homelessness_Crisis.pdf            # Final report & visual analysis
 └── README.md                          # Project documentation
