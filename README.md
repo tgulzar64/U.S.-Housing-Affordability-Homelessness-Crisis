@@ -131,27 +131,7 @@ Without intervention, the data suggests:
 ├── Washington Data Analysis.ipynb     # Forecasting & affordability modeling
 ├── Homelessness_Crisis.pdf            # Final report & visual analysis
 └── README.md                          # Project documentation
-```
 
----
-
-## 🚀 How to Run
-
-1. **Clone the repository**
-```bash
-   git clone <repository-url>
-   cd <repository-name>
-```
-
-2. **Install dependencies**
-```bash
-   pip install pandas numpy matplotlib seaborn statsmodels
-```
-
-3. **Run the notebook**
-```bash
-   jupyter notebook "Washington Data Analysis.ipynb"
-```
 
 ---
 
